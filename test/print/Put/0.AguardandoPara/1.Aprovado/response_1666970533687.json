@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "data": "2022-10-28T14:33:50.344",
+    "status": "Aprovado",
+    "vendedor_id": 3,
+    "vendedor_nome": "Fernanda Santos",
+    "vendedor_cpf": "123.456.789-00",
+    "vendedor_email": "fernanda@email.com",
+    "vendedor_telefone": "(11) 98888-7777",
+    "itens_id": [
+      1,
+      2,
+      3
+    ]
+  }
+]

@@ -1,0 +1,7 @@
+
+# Visual Studio Code cache
+.vscode/
+
+# Bin and Objects
+[Bb]in/
+[Oo]bj/
